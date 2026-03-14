@@ -24,7 +24,7 @@ This is a single-page personal website that includes:
 
 - Navigation menu with smooth scrolling to sections
 - Interactive fun fact button that displays random facts with confetti explosion
-- Dancing banner text animation on page load and button click
+- Dancing hero (banner) text animation on page load and button click
 - Background lofi music player with play/pause toggle
 - Hover effects on buttons and hobby cards
 - Repeating background pattern (`assets/background.png`)
